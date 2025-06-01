@@ -6,20 +6,20 @@ body {
 
 h1 {
     font-size: 100px;
-    margin-bottom: -10px;
+    margin-bottom: 0px;
 }
 
 h2 {
     font-size: 30px;
     margin-top: 0;
-    margin-bottom: 0;
+    margin-bottom: -40px;
 }
 
 button {
-    margin: 20px auto 0 auto;
-    height: 35px;
-    width: 100px;
-    font-size: 40px;
+    margin: -20px auto 0 auto;
+    height: 50px;
+    width: 200px;
+    font-size: 60px;
     font-family: "Jersey 10", sans-serif;
     display: flex;
     align-items: center;
@@ -27,4 +27,5 @@ button {
     background: transparent;
     border: 2px solid #000;
     box-sizing: border-box;
+    border-radius: 5px;
 }

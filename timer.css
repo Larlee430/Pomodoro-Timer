@@ -7,7 +7,7 @@ h1 {
     text-align: center;
     margin-bottom: 20px;
 }
-img {
+p {
     font-size: 150px;
     text-align: center;
     margin-top: 0;
@@ -19,11 +19,11 @@ img {
     font-size: 80px;
     border-radius: 10px;
     background: transparent;
-    margin-top: -200;
+    margin-top: 60px;
+    margin-bottom: 50px;
 }
 
-img {
+button {
     display: block;
     margin: 20px auto 0 auto;
-
 }

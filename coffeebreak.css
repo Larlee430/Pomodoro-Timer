@@ -21,12 +21,11 @@ p {
     font-size: 80px;
     border-radius: 10px;
     background: transparent;
-    margin-top: -200;
-    margin-bottom: 0px;
+    margin-top: 60px;
+    margin-bottom: 50px;
 }
 
-img {
+button {
     display: block;
     margin: 20px auto 0 auto;
-
 }
