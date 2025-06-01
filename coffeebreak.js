@@ -1,4 +1,4 @@
-const startingMinute = .01;
+const startingMinute = 5;
 let time = startingMinute * 60;
 
 const countdownEl = document.getElementById('countdown');
