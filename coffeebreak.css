@@ -1,17 +1,19 @@
 body {
     background-color: #f7efd2;
     font-family: "Jersey 10", sans-serif;
-}
+
 h1 {
     font-size: 100px;
     text-align: center;
     margin-bottom: 20px;
 }
-img {
+    
+}
+p {
     font-size: 150px;
     text-align: center;
     margin-top: 0;
-    margin-bottom: -60px
+    margin-bottom: -60px;
 }
 
 #BreakBtn {
@@ -20,6 +22,7 @@ img {
     border-radius: 10px;
     background: transparent;
     margin-top: -200;
+    margin-bottom: 0px;
 }
 
 img {

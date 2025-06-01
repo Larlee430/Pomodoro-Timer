@@ -14,9 +14,9 @@ function updateCountdown() {
 
     if (time < 0) {
         clearInterval(interval);
-        countdownEl.innerHTML = `<button id="startBreakBtn">Start Break</button>`;
-        document.getElementById('startBreakBtn').onclick = function() {
-            window.location.href = "coffeebreak.html";
+        countdownEl.innerHTML = `<button id="BreakBtn">Back to work</button>`;
+        document.getElementById('BreakBtn').onclick = function() {
+            window.location.href = "timer.html";
         };
     }
 }
